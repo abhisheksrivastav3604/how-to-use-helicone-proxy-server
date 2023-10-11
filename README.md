@@ -31,7 +31,7 @@ Step-by-step user guide [video](https://drive.google.com/file/d/1_Lj1xmXMB-60cgm
 
 1. Run the below command to clone this repo:
 ```
-git clone https://github.com/madgical-ai/how-to-use-helicone-proxy-server.git
+git clone https://github.com/abhisheksrivastav3604/how-to-use-helicone-proxy-server.git
 ```
 2. For cURL test :
    ```
