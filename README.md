@@ -17,7 +17,7 @@ This repository demonstrates to how to use helicone proxy server with methods li
   1.  openai.api_type - we use azure openai key so we need set as "azure"
   2.  openai.api_version - This specifies the version of the Azure OpenAI API. To check, you can refer to this link: https://learn.microsoft.com/en-us/azure/ai-services/openai/reference
   3.  openai.api_base - i.e.  Helicone proxy server Link
-  4.  Helicone Authentication key - It specified as "<Helicone-Auth-Key>"
+  4.  Helicone Authentication key - It specified as "Helicone-Auth-Key"
   5.  Helicone User Id - User Name
   6.  engine - It specify the Azure OpenAI engine
   7.  model_name - It specifies the specific model within the chosen engine
